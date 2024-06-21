@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,flask,fastapi,django" />
-    <img src="https://skillicons.dev/icons?i=htmx,html,css,vscode,github,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=htmx,html,css,vscode,github,tailwind,git" /> <br>
 </div>
 
 <br/>
