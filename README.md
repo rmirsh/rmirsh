@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rmish.rmirsh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&duration=2000&pause=1000&color=00172AB6&center=true&width=435&lines=What's+up!+;Checkout+my+repos" alt="Typing SVG"" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&duration=2000&pause=1000&color=9A6629B6&center=true&width=435&lines=What's+up!+;Checkout+my+repos" alt="Typing SVG"" />
 </h1>
 
 <h3 align="center">A passionate software developer from Russia</h3>
