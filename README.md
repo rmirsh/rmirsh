@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rmish.rmirsh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kamil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&duration=2000&pause=1000&color=00172AB6&center=true&width=435&lines=What's+up!+;Checkout+my+repos" alt="Typing SVG"" />
 </h1>
 
 <h3 align="center">A passionate software developer from Russia</h3>
@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an online chat on FastAPI**
+ 🔭 I’m currently working on **an auto google gorm submitter**
  
- 🌱 I’m currently learning **Docker, FastAPI, CS**
+ 🌱 I’m currently learning **Go, Clichouse, OpenAI API**
 
-💬 Ask me about **Python, Aiogram, SqlAclhemy**
+💬 Ask me about **Python, FastAPI, Pydantic**
 
  </div>
  
