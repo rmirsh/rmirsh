@@ -13,7 +13,7 @@ NOW
 ───────────────────────────────────────────────
 BUILDING   LLM / AI SYSTEMS
 LEARNING   C
-PROJECT    changelog-gen — CLI changelog from git
+PROJECT    changelog-gen — CLI changelog from git by LLMs
 LOCATION   GEORGIA
 ```
 ```
