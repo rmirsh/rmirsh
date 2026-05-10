@@ -14,17 +14,19 @@ NOW
 BUILDING   LLM / AI SYSTEMS
 LEARNING   C
 PROJECT    changelog-gen — CLI changelog from git
-LOCATION   RUSSIA
+LOCATION   GEORGIA
 ```
-
-<hr/>
-
 ```
 STACK
 ───────────────────────────────────────────────
 CORE       PYTHON · FASTAPI · DJANGO · POSTGRESQL · CLICKHOUSE
 INFRA      KAFKA · REDIS · DOCKER · KUBERNETES
 AI         LANGCHAIN · MCP · ANTHROPIC · OPENAI · OLLAMA
+```
+```
+REACH
+───────────────────────────────────────────────
+ayupovkamil@gmail.com · t.me/pyenj
 ```
 
 <hr/>
@@ -35,11 +37,3 @@ AI         LANGCHAIN · MCP · ANTHROPIC · OPENAI · OLLAMA
 <img height="160" src="https://streak-stats.demolab.com?user=rmirsh&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true" />
 
 </div>
-
-<hr/>
-
-```
-REACH
-───────────────────────────────────────────────
-ayupovkamil@gmail.com · t.me/pyenj
-```
