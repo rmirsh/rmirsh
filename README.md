@@ -1,42 +1,45 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rmish.rmirsh" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&duration=2000&pause=1000&color=2BE4D8EE&center=true&width=435&lines=What's+up!+;Checkout+my+repos" alt="Typing SVG"" />
-</h1>
-
-<h3 align="center">A passionate software developer from Russia</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I’m currently working on **an auto google gorm submitter**
- 
- 🌱 I’m currently learning **Go, Clichouse, OpenAI API**
 
-💬 Ask me about **Python, FastAPI, Pydantic**
+<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=28&duration=2000&pause=1200&color=FFFFFF&center=true&width=500&lines=KAMIL+AYUPOV;BACKEND.+AI+SYSTEMS.;PYTHON.+C+NEXT." alt="header" />
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:ayupovkamil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-<!--   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://shields.io/badge/Telegram-0088cc??style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  <a href="https://t.me/klayupov" target="_blank">
-    <img src="https://shields.io/badge/Telegram-0088cc??style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
-  </a>
+<p>BACKEND ENGINEER · LLM SYSTEMS · PYTHON</p>
+
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<hr/>
+
+```
+NOW
+───────────────────────────────────────────────
+BUILDING   LLM / AI SYSTEMS
+LEARNING   C
+PROJECT    changelog-gen — CLI changelog from git
+LOCATION   RUSSIA
+```
+
+<hr/>
+
+```
+STACK
+───────────────────────────────────────────────
+CORE       PYTHON · FASTAPI · DJANGO · POSTGRESQL · CLICKHOUSE
+INFRA      KAFKA · REDIS · DOCKER · KUBERNETES
+AI         LANGCHAIN · MCP · ANTHROPIC · OPENAI · OLLAMA
+```
+
+<hr/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,flask,fastapi,django" />
-    <img src="https://skillicons.dev/icons?i=htmx,html,css,vscode,github,tailwind,git" /> <br>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rmirsh&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="160" src="https://streak-stats.demolab.com?user=rmirsh&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true" />
+
 </div>
+
+<hr/>
+
+```
+REACH
+───────────────────────────────────────────────
+ayupovkamil@gmail.com · t.me/pyenj
+```
