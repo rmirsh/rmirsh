@@ -26,7 +26,7 @@ AI         LANGCHAIN · MCP · ANTHROPIC · OPENAI · OLLAMA
 ```
 REACH
 ───────────────────────────────────────────────
-ayupovkamil@gmail.com · t.me/pyenj
+ayupovkamil@gmail.com · t.me/volk_till_i_die
 ```
 
 <hr/>
